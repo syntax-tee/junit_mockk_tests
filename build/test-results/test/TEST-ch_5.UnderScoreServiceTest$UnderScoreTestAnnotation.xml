@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch_5.UnderScoreServiceTest$UnderScoreTestAnnotation" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-03-12T00:49:33" hostname="Taiyes-MacBook-Pro-2.local" time="0.664">
+  <properties/>
+  <testcase name="should be able to vote up question()" classname="ch_5.UnderScoreServiceTest$UnderScoreTestAnnotation" time="0.623"/>
+  <testcase name="should throw an exception id the question id is invalid()" classname="ch_5.UnderScoreServiceTest$UnderScoreTestAnnotation" time="0.02"/>
+  <testcase name="should be able to initialize()" classname="ch_5.UnderScoreServiceTest$UnderScoreTestAnnotation" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
